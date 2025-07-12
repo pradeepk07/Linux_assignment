@@ -1,11 +1,17 @@
 # Linux Command Practice Assignment
 
 1. Creating and Renaming Files/Directories
+   
 Commands:
+
 mkdir test_dir
+
 cd test_dir
+
 touch example.txt
+
 mv example.txt renamed_example.txt
+
 Explanation:
 - Creates a directory `test_dir`, enters it, creates an empty file `example.txt`, and renames it to `renamed_example.txt`.
   
