@@ -1,5 +1,4 @@
 # Linux Command Practice Assignment
-
 1. Creating and Renaming Files/Directories
    
 Commands:
